@@ -38,3 +38,7 @@
 - Discussed about the training sessions which I had attended.
 - He advised me to maintain a journal wherein I should write all the things I learnt during the day.
 - He also showed me how to use markdown for writing these journals which makes the text look more presentable and readable.
+
+## 2nd feb
+- Installed python on the system and started the python course recommended by my manager.
+- Learnt about the data types, functions and conditional structures in python.
