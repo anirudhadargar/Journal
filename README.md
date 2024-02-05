@@ -39,6 +39,10 @@
 - He advised me to maintain a journal wherein I should write all the things I learnt during the day.
 - He also showed me how to use markdown for writing these journals which makes the text look more presentable and readable.
 
-## 2nd feb
+## 2nd Feb
 - Installed python on the system and started the python course recommended by my manager.
 - Learnt about the data types, functions and conditional structures in python.
+
+## 5th Feb
+- Learnt Loops, classes, exceptions and imports in python.
+- Started "Working with files" module and learnt reading and writing to a file and working with OS path utilities.
