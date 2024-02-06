@@ -46,3 +46,16 @@
 ## 5th Feb
 - Learnt Loops, classes, exceptions and imports in python.
 - Started "Working with files" module and learnt reading and writing to a file and working with OS path utilities.
+
+## 6th Feb
+#### Cloud Session Day1
+- Learnt about OCI architecture- regions, avalaible domains(AD), fault domains(FD).
+- Identity & Access management, OCID, identity domains and its types.
+- Authentication & Authorization.
+- Policies, Dynamic groups and conditional policies.
+- Virtual Cloud Network(VCN) and CIDR notation.
+- Different types of gateways- internet, service, local peering and dynamic routing gateway.
+- Exercise 1-> enable multi-factor authentication.
+- Exercise 2-> Create a VCN in a region.
+- Exercise 3-> Configuring Local Peering Gateway(LPG) to interconnect two VCNS. First create 2 VCNs. Then configure the LPG and connect the VCNs. Add routing rules and security rules.
+- Exercise 4-> Use Dynamic Routing Gateways(DRG) to interconnect two VCNs in different OCI regions. 
