@@ -59,3 +59,13 @@
 - Exercise 2-> Create a VCN in a region.
 - Exercise 3-> Configuring Local Peering Gateway(LPG) to interconnect two VCNS. First create 2 VCNs. Then configure the LPG and connect the VCNs. Add routing rules and security rules.
 - Exercise 4-> Use Dynamic Routing Gateways(DRG) to interconnect two VCNs in different OCI regions. 
+
+## 7th Feb
+#### Cloud Session Day2
+- Learnt about different connectivity types- fast connect, site to site vpn, etc.
+- Compute instances( back end servers).
+- Load balancing and network load balancer
+- Exercise 1 -> Configure a public load balancer, including a set of 2 backend compute instances.
+- DNS, zones and records.
+- Exercise 2 -> Configure a private DNS zone and create a DNS A record that corresponds to a private IP address.
+- Storage - block storage, boot volume, etc.
