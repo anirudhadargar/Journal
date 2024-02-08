@@ -69,3 +69,8 @@
 - DNS, zones and records.
 - Exercise 2 -> Configure a private DNS zone and create a DNS A record that corresponds to a private IP address.
 - Storage - block storage, boot volume, etc.
+
+## 8th Feb
+- Meet with my manager to discuss about the training sessions, python courses, etc.
+- Learnt OS path utilities, date, time and datetime classes, formatting time output and using timedelta objects in python.
+- Completed compliance training on GUI Security, Risk and Compliance and privacy by design.
