@@ -74,3 +74,15 @@
 - Meet with my manager to discuss about the training sessions, python courses, etc.
 - Learnt OS path utilities, date, time and datetime classes, formatting time output and using timedelta objects in python.
 - Completed compliance training on GUI Security, Risk and Compliance and privacy by design.
+
+## 12th Feb
+#### Python Session Day1
+- Introduction to python, why it is used, comparison with other programming languages.
+- Variables, operators, control flow, strings.
+- Solved exercises on the above topics.
+
+## 13th Feb
+#### Python Session Day2
+- List, tuple, set and dictionary.
+- Use cases of the above data structures and comparison between them.
+- Solved exercises on the above topics.
