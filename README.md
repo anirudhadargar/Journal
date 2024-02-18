@@ -86,3 +86,19 @@
 - List, tuple, set and dictionary.
 - Use cases of the above data structures and comparison between them.
 - Solved exercises on the above topics.
+
+## 14th Feb
+#### Python Session Day3
+- Functions, file-handling and modules.
+- Exception handling in python.
+- Solved exercises on the above topics.
+
+## 15th Feb
+#### Python Session Day4
+- Object Oriented programming concepts and lambda expressions.
+- Solved exercises on the above topics.
+
+## 16th feb
+#### Python Session Day5
+- Email automation using python, SQL, pandas and numpy.
+- Solved exercises on the above topics.
