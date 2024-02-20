@@ -1,3 +1,12 @@
+## 20th Feb
+- Zoom meet with my manager.
+- Completed the remaining compliance training programs.
+- Went through the online article on asyncio in python sent by my manager.
+- Learnt the basic concept of asyncio - a python package that has APIs for running and managing coroutines.
+- It has async and await keywords.
+- Coroutines are different from subroutines in the sense that coroutines have many entry points whereas subroutine has a single entry point.
+- Coroutines can suspend their execution and transfer control to other coroutine and can resume again execution from the point they left off.
+
 ## 19th Feb
 - Zoom meet with my manager.
 - A brief introduction about the project which I will be working on and asyncio in python.
