@@ -104,6 +104,6 @@
 
 ## 17th Jan
 #### Orientation Program
-- The HR team introduced themselves and breifed about the onboarding process.
+- The HR team introduced themselves and briefed about the onboarding process.
 - Some fun games were played.
 - Senior managers gave a brief description on the company.
