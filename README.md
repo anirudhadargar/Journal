@@ -1,3 +1,8 @@
+## 21st Feb
+- Watched some tutorials on asyncio in python.
+- Understood how to create task using asyncio.
+- Async and await keywords to create coroutines.
+
 ## 20th Feb
 - Zoom meet with my manager.
 - Completed the remaining compliance training programs.
