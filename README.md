@@ -1,3 +1,6 @@
+## 22nd Feb
+- Went through some code snippets related to asyncio in python.
+
 ## 21st Feb
 - Watched some tutorials on asyncio in python.
 - Understood how to create task using asyncio.
