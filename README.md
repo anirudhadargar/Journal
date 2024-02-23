@@ -1,3 +1,6 @@
+## 23rd Feb
+- Discussion on major project with the college guide and team.
+
 ## 22nd Feb
 - Went through some code snippets related to asyncio in python.
 
