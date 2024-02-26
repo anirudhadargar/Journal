@@ -1,3 +1,11 @@
+## 26th Feb
+- Meet with my manager. Discussed about Generators, yield, OJET, Required.js, Knockout.js, Jquery.js, Redwood, SQLAlchemy. He also gave a brief description of textura payment management system.
+- Read about generators in python. They are functions that help us to generate values on the fly.
+- We can create a generator by using a yield statement in a function.
+- The yield statement returns a value from the generator and suspends the execution of the function until the next value is requested.
+- Saw code snippets related to SQLAlchemy. It bascially helps us to map python objects and classes into database tables and entries.
+- Read Textura Payment Management in brief. 
+
 ## 23rd Feb
 - Discussion on major project with the college guide and team.
 
