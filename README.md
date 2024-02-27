@@ -1,3 +1,8 @@
+## 27th Feb
+- Meet with my manager. He explained in detail about Textura payment management and the various microservices running in it.
+- Discussed about fee bill, pdq, Erp, etc.
+- Started learning flask by following a tutorial.
+
 ## 26th Feb
 - Meet with my manager. Discussed about Generators, yield, OJET, Required.js, Knockout.js, Jquery.js, Redwood, SQLAlchemy. He also gave a brief description of textura payment management system.
 - Read about generators in python. They are functions that help us to generate values on the fly.
