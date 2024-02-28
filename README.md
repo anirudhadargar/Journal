@@ -1,3 +1,7 @@
+## 28th Feb
+- Continued learning flask by following the tutorial.
+- Practised create and read operations using flask.
+
 ## 27th Feb
 - Meet with my manager. He explained in detail about Textura payment management and the various microservices running in it.
 - Discussed about fee bill, pdq, Erp, etc.
