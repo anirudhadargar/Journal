@@ -1,3 +1,7 @@
+## 29th Feb
+- Continued learning flask by following the tutorial.
+- Practised delete and update operations using flask.
+
 ## 28th Feb
 - Continued learning flask by following the tutorial.
 - Practised create and read operations using flask.
