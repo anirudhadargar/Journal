@@ -1,3 +1,8 @@
+## 1st March
+- Meet with my manager.
+- Meet with other memebers of the team. Everybody updated about the work they had done.
+- Discussion with guide and other team members on the progress of major project. 
+
 ## 29th Feb
 - Continued learning flask by following the tutorial.
 - Practised delete and update operations using flask.
