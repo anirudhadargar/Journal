@@ -1,3 +1,8 @@
+## 4th March
+- Meet with my manager.
+- Stand up meet with all team members.
+- Continued with the tutorial on python flask. Learnt template inheritance, forms, database on flask.
+
 ## 1st March
 - Meet with my manager.
 - Meet with other memebers of the team. Everybody updated about the work they had done.
