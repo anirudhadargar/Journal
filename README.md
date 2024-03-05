@@ -1,3 +1,8 @@
+## 5th March
+- Meet with my manager and stand up meet with all team members.
+- Started working on Library Management System using python flask.
+- Book issue flow is completed. Whenever the book issue form is filled and submitted, it gets recorded in the database and is also displayed on the front end.
+
 ## 4th March
 - Meet with my manager.
 - Stand up meet with all team members.
