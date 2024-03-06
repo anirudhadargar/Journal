@@ -1,3 +1,7 @@
+## 6th March
+- Stand up meet with all team members.
+- Completed the book return flow in the library management system.
+
 ## 5th March
 - Meet with my manager and stand up meet with all team members.
 - Started working on Library Management System using python flask.
