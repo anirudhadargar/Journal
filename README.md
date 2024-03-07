@@ -1,4 +1,4 @@
-## 7th Mrch
+## 7th March
 - Meet with my manager. I showed him the entire workflow of the library management system.
 - Stand up meet with all team members.
 - Worked on login/signup using flask.
