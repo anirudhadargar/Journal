@@ -1,3 +1,11 @@
+## 7th Mrch
+- Meet with my manager. I showed him the entire workflow of the library management system.
+- Stand up meet with all team members.
+- Worked on login/signup using flask.
+- Created notes on python flask and uploaded the repository on github.
+- Converting utc to ist is pending , will look into it tomorrow.
+- Raised requests for jira and confluence. Approval may take some time. Will discuss it with manager tomorrow.
+
 ## 6th March
 - Stand up meet with all team members.
 - Completed the book return flow in the library management system.
