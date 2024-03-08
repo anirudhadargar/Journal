@@ -1,3 +1,8 @@
+## 8th March
+- Meet with my manager.
+- Got access to jira and confluence.
+- Explored login/register using python flask.
+
 ## 7th March
 - Meet with my manager. I showed him the entire workflow of the library management system.
 - Stand up meet with all team members.
