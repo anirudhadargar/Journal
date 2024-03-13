@@ -1,3 +1,7 @@
+## 12th March
+- Meet with my manager.
+- Started watching automation training videos.
+
 ## 11th March
 - Meet with my manager.
 - Raised 2 requests for oim entitlement.
