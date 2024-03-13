@@ -1,3 +1,7 @@
+## 13th March
+- Meet with my manager.
+- Continued with the automation training videos.
+
 ## 12th March
 - Meet with my manager.
 - Started watching automation training videos.
