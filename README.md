@@ -1,3 +1,8 @@
+## 14th March
+- Completed the set up of the automation project.
+- Faced some issues with running the test cases because everytime the output showed the results as skipped.
+- Solved the issue with the help of a team member. Bascially there was a mismatch in the chrome driver version and the vm which I was using was outdated.
+
 ## 13th March
 - Meet with my manager.
 - Continued with the automation training videos.
