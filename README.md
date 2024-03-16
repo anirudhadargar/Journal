@@ -1,3 +1,9 @@
+## 15th March
+- Stand up meet with team members.
+- Started Day2 folder of automation training.
+- Learnt about TestNG and different annotations such as BeforeSuite, BeforeTest, BeforeClass, BeforeMethod, Test, AfterMethod, AfterClass,AfterTest, AfterSuite.
+- Also read about different attributes such as groups, methodsondemand, alwaysrun, etc.
+
 ## 14th March
 - Completed the set up of the automation project.
 - Faced some issues with running the test cases because everytime the output showed the results as skipped.
