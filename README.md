@@ -1,3 +1,9 @@
+## 18th March
+- Stand up meet with team members.
+- Completed Day2 folder of automation training and started with Day3 folder.
+- Learnt about comparators, expected results or ERs and writing the structure of test cases.
+- In Day3 folder, started introduction to java and read about java syntax(w.r.t test cases), data types, classes and objects. 
+
 ## 15th March
 - Stand up meet with team members.
 - Started Day2 folder of automation training.
