@@ -1,3 +1,9 @@
+## 19th March
+- Stand up meet with team members.
+- Continued with Day3 folder of automation training.
+- Read about inheritance in java with some examples.
+- Learnt how to write pre-conditions for test cases and saw examples related to it.
+
 ## 18th March
 - Stand up meet with team members.
 - Completed Day2 folder of automation training and started with Day3 folder.
