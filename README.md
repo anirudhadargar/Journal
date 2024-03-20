@@ -1,3 +1,9 @@
+## 20th March
+- Meet with my manager. Discussed about the automation training.
+- Stand up meet with all team members.
+- Completed Day3 folder of automation training.
+- Started Day4 folder and read about email and notification automation.
+
 ## 19th March
 - Stand up meet with team members.
 - Continued with Day3 folder of automation training.
