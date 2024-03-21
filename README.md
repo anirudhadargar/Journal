@@ -1,3 +1,9 @@
+## 21st March
+- Meet with my manager. Discussed about automation training.
+- Stand up meet with all team members.
+- Completed Day4 folder of automation training. Read about tpm automated rules and also automation git branches.
+- Read about the 5 types of branches- master, develop, develop-rc, rc and qis.
+
 ## 20th March
 - Meet with my manager. Discussed about the automation training.
 - Stand up meet with all team members.
