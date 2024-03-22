@@ -1,3 +1,8 @@
+## 22nd March
+- Meet with my manager.
+- Started Day5 folder of automation training.
+- Saw how automation test failure report is generated. Accessing the elements in ui using By.xpath method. 
+
 ## 21st March
 - Meet with my manager. Discussed about automation training.
 - Stand up meet with all team members.
