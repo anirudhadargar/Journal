@@ -1,6 +1,10 @@
+## 26th March
+- Stand up meet with all team members.
+- Continued to work on to automate the test case.
+
 ## 25th March
 - Meet with my manager. He showed me how to commit and merge in cloudlab.
-- Stand up meet with al team members.
+- Stand up meet with all team members.
 - Started writing the pre-conditions for test case - c29681291. Got lots of errors and tried to debug them.  
 
 ## 22nd March
