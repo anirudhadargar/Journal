@@ -1,3 +1,8 @@
+## 27th March
+- Stand up meet with all team members.
+- Worked on pre-conditions of the test case but got errors that could not be solved at that moment.
+- Started working on the pre-conditions of another test case assigned to me.
+
 ## 26th March
 - Stand up meet with all team members.
 - Continued to work on to automate the test case.
