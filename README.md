@@ -1,3 +1,7 @@
+## 29th March
+- Stand up meet.
+- Completed the pre-conditions of the test case and started with the execution steps.
+
 ## 28th March
 - Stand up meet with all team members.
 - Almost completed the pre-conditions for the test case. Have a few doubts in the code and the steps which I will clear tomorrow with a team member.
