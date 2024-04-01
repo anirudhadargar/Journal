@@ -1,3 +1,8 @@
+## 1st April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Continued with the execution steps of the previous test case. Started writing the pre-conditions for automation of new test case.
+
 ## 29th March
 - Stand up meet.
 - Completed the pre-conditions of the test case and started with the execution steps.
