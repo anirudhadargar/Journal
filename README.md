@@ -1,3 +1,8 @@
+## 2nd April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Almost completed the pre-conditions of the test case but could not check it because of some server issues.
+
 ## 1st April
 - Meet with my manager.
 - Stand up meet with all team members.
