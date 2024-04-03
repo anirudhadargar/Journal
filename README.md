@@ -1,3 +1,9 @@
+## 3rd April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Completed the set up of the new vm which was assigned to me.
+- Installed and configured putty and then ran the commands to load the code.
+
 ## 2nd April
 - Meet with my manager.
 - Stand up meet with all team members.
