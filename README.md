@@ -1,3 +1,8 @@
+## 4th April
+- Meet with my manager.
+- Completed writing the execution steps and expected results of the test case.
+- Completed writing the pre-conditions of the new test case assigned to me.
+
 ## 3rd April
 - Meet with my manager.
 - Stand up meet with all team members.
