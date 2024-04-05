@@ -1,3 +1,9 @@
+## 5th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Started the execution steps of the test case.
+- Performed merge forward but it resulted in lots of errors in the configuration which completely couldn't be solved.
+
 ## 4th April
 - Meet with my manager.
 - Completed writing the execution steps and expected results of the test case.
