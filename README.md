@@ -1,3 +1,9 @@
+## 8th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Configuration issues in eclipse were fixed. Completed the execution steps of the previously assigned test case.
+- Completed the pre-conditions of a new test case.
+
 ## 5th April
 - Meet with my manager.
 - Stand up meet with all team members.
