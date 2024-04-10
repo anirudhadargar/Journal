@@ -1,3 +1,8 @@
+## 10th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Continued working on the execution steps of the test case. Learnt lots of new things and solved the errors that came up.
+
 ## 8th April
 - Meet with my manager.
 - Stand up meet with all team members.
