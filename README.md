@@ -1,3 +1,8 @@
+## 12th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Took up 2 new test cases and completed the pre-conditions and execution steps of the first one. Completed the pre-conditions of the other case.
+
 ## 10th April
 - Meet with my manager.
 - Stand up meet with all team members.
