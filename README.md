@@ -1,3 +1,9 @@
+## 15th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Completed the execution steps of a test case.
+- Performed jenkins run on a test case and it passed. Created MR and sent the code for review. Jenkins run failed for other 2 cases.
+
 ## 12th April
 - Meet with my manager.
 - Stand up meet with all team members.
