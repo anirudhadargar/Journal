@@ -1,3 +1,8 @@
+## 16th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Performed jenkins run on remanining 2 test cases. Sent MR for code review. Updated the code with the required changes. The cases were merged.
+
 ## 15th April
 - Meet with my manager.
 - Stand up meet with all team members.
