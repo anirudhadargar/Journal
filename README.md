@@ -1,3 +1,8 @@
+## 17th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Asked 2 team members to provide automation related tasks from a different case but they told that it is still in development.
+
 ## 16th April
 - Meet with my manager.
 - Stand up meet with all team members.
