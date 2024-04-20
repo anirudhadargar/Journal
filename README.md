@@ -1,3 +1,6 @@
+## 19th April
+- Meet with my manager. Asked him to fill the evaluation form given by the college.
+
 ## 17th April
 - Meet with my manager.
 - Stand up meet with all team members.
