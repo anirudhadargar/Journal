@@ -1,3 +1,8 @@
+## 22nd April
+- Took up a test case from qis-20607.
+- Set up the env of local vm according to ICPM-24433.
+- Wrote the pre-conditions and executions steps of the test case. Then ran jenkins, but it failed. Upon understanding the error, found that the entire project set up needs to be completed. Hence, will have to do corrections in the execution steps.
+
 ## 19th April
 - Meet with my manager. Asked him to fill the evaluation form given by the college.
 
