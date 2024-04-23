@@ -1,3 +1,8 @@
+## 23rd April
+- Performed jenkins run on the test case and raised MR and it was merged.
+- Picked up another test case and wrote the pre-conditions and execution steps of it.
+- Ran it in jenkins but the run was unsuccessful. Tried to debug the issue but could not find the solution.
+
 ## 22nd April
 - Took up a test case from qis-20607.
 - Set up the env of local vm according to ICPM-24433.
