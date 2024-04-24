@@ -1,3 +1,9 @@
+## 24th April
+- Resolved the issue with jenkins run and the test case was merged.
+- Picked up 2 more test cases from QIS-20616.
+- Completed the pre-conditions of both and execution steps of the first one.
+- Learnt new concepts such as difference between sub & LW sub and also understood how UCLW is signed by GC for a manual contractor.
+
 ## 23rd April
 - Performed jenkins run on the test case and raised MR and it was merged.
 - Picked up another test case and wrote the pre-conditions and execution steps of it.
