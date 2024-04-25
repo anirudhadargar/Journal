@@ -1,3 +1,8 @@
+## 25th April
+- continued to work on execution steps of test case from QIS-20616. But it had some errors and ER was updated and then I completed writing the execution steps.
+- More execution steps were added to a test case from QIS-20607. Updated the test case.
+- Took up a new test case from QIS-20607 which was added today and completed the pre-conditions.
+
 ## 24th April
 - Resolved the issue with jenkins run and the test case was merged.
 - Picked up 2 more test cases from QIS-20616.
