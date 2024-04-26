@@ -1,3 +1,7 @@
+## 26th April
+- Completed the scripting of the last test case of QIS-20607. Ran jenkins but it failed.
+- Took a new test case from a different QIS and completed the pre-conditions and execution steps. It had some errors initially and discussed it with the person who wrote it. It was updated later.
+
 ## 25th April
 - continued to work on execution steps of test case from QIS-20616. But it had some errors and ER was updated and then I completed writing the execution steps.
 - More execution steps were added to a test case from QIS-20607. Updated the test case.
