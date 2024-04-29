@@ -1,3 +1,8 @@
+## 29th April
+- Jenkins run was successful for test cases of qis-20607.
+- Took 2 new test cases from qis-20623.
+- Completed the scripting of 1st one and pre-conditions of second one.
+
 ## 26th April
 - Completed the scripting of the last test case of QIS-20607. Ran jenkins but it failed.
 - Took a new test case from a different QIS and completed the pre-conditions and execution steps. It had some errors initially and discussed it with the person who wrote it. It was updated later.
