@@ -1,3 +1,9 @@
+## 30th April
+- Meet with my manager.
+- Stand up meet with all team members.
+- Completed the execution steps of the test case and took a new test case from QIS-20623.
+- Completed the scripting of the newly taken test case.
+
 ## 29th April
 - Jenkins run was successful for test cases of qis-20607.
 - Took 2 new test cases from qis-20623.
