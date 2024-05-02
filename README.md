@@ -1,3 +1,7 @@
+## 2nd May
+- Stand up meet with all team members.
+- Completed 2 test cases from qis-20630.
+
 ## 30th April
 - Meet with my manager.
 - Stand up meet with all team members.
