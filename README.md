@@ -1,3 +1,8 @@
+## 3rd May
+- Updated cases of QIS-20616( C29701673, C29701901) as per changes made to execution steps.
+- Completed pre-conditions & execution steps of test cases - C29704357, C29704358 & C29704359 of QIS-20630.
+- Automated 9 test cases this week.
+
 ## 2nd May
 - Stand up meet with all team members.
 - Completed 2 test cases from qis-20630.
