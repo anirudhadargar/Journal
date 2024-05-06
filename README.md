@@ -1,3 +1,7 @@
+## 6th May
+- Updated the test cases of QIS-20607 as per the changes suggested in code review.
+- Completed the scripting of 3 test cases from QIS-20630.
+
 ## 3rd May
 - Updated cases of QIS-20616( C29701673, C29701901) as per changes made to execution steps.
 - Completed pre-conditions & execution steps of test cases - C29704357, C29704358 & C29704359 of QIS-20630.
