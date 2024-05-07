@@ -1,3 +1,8 @@
+## 7th May
+- Watched the recordings of ICPM-59525 and got a fair idea of the feature.
+- Understood the concept of subcontracto invoice aging report and how it is generated.
+- Completed scripting of 2 test cases from QIS-20643.
+
 ## 6th May
 - Updated the test cases of QIS-20607 as per the changes suggested in code review.
 - Completed the scripting of 3 test cases from QIS-20630.
