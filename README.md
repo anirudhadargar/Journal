@@ -1,3 +1,8 @@
+## 9th May
+- Stand up meet with all team members.
+- Completed scripting of 1 test case and pre-data of another.
+- Got stuck in execution steps of the other test case due to issues with the date and time change.
+
 ## 8th May
 - Stand up meet with all team members.
 - Completed scripting of 2 test cases from QIS-20643.
