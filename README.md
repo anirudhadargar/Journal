@@ -1,3 +1,8 @@
+## 10th May
+- Stand up meet with all team members.
+- Completed the execution steps of the test case in which I was stuck.
+- Updated a test case because 1 execution step was added to it.
+
 ## 9th May
 - Stand up meet with all team members.
 - Completed scripting of 1 test case and pre-data of another.
