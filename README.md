@@ -1,3 +1,8 @@
+## 15th May
+- Stand up meet.
+- Completed execution steps of a test case from QIS-20630.
+- Took 3 new test cases from QIS-20630 and completed the scripting of those test cases.
+
 ## 14th May
 - Stand up meet with all team members.
 - Completed jenkins run for 1 test case and addressed all code review comments of my test cases from QIS-20643.
