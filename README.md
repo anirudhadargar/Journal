@@ -1,3 +1,7 @@
+## 20th May
+- Major project final review in the first half.
+- Updated 2 test cases from QIS-20623 according to the changes in the execution steps and expected results.
+
 ## 15th May
 - Stand up meet.
 - Completed execution steps of a test case from QIS-20630.
