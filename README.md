@@ -1,3 +1,11 @@
+## 22nd May
+- Completed scripting of 1 test case which was taken yesterday.
+- Took 3 new test cases from QIS-20630. Completed scripting of 2 of those test cases.
+
+## 21st May
+- Updated 1 test case from QIS-20623 according to the changes in the execution steps and expected results.
+- Took 3 new test cases from QIS-20630. Completed scripting of 2 of those test cases.
+
 ## 20th May
 - Major project final review in the first half.
 - Updated 2 test cases from QIS-20623 according to the changes in the execution steps and expected results.
