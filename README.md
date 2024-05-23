@@ -1,3 +1,8 @@
+## 23rd May
+- Meet with my manager.
+- Stand up meet with team.
+- Completed scripting of 3 test cases.
+
 ## 22nd May
 - Completed scripting of 1 test case which was taken yesterday.
 - Took 3 new test cases from QIS-20630. Completed scripting of 2 of those test cases.
