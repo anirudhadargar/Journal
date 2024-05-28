@@ -1,3 +1,7 @@
+## 28th May
+- Stand up meet.
+- Completed scripting of 2 test cases from QIS-20634.
+
 ## 27th May
 - Stand up meet.
 - Took 3 new test cases from QIS-20630.
