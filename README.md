@@ -1,3 +1,7 @@
+## 29th May
+- Performed merge forward of a QIS branch with the epic branch and resolved the conflicts.
+- Took 2 test cases. Completed scripting of one and data generation for the other.
+
 ## 28th May
 - Stand up meet.
 - Completed scripting of 2 test cases from QIS-20634.
